@@ -1,0 +1,552 @@
+active,DrugBank ID,Route_Unique
+troglitazone,DB00197,oral
+imiquimod,DB00724,topical
+anagrelide,DB00261,oral
+nelfinavir,DB00220,oral
+delavirdine,DB00705,oral
+tamsulosin,DB00706,oral
+toremifene,DB00539,oral
+tazarotene,DB00799,topical
+cerivastatin,DB00439,oral
+pramipexole,DB00413,oral
+bromfenac,DB00963,ophthalmic
+letrozole,DB01006,oral
+dolasetron,DB00757,oral
+arbutamine,DB01102,injection
+ropinirole,DB00268,oral
+fenoldopam,DB00800,injection
+quetiapine,DB01224,oral
+tiagabine,DB00906,oral
+irbesartan,DB01029,oral
+grepafloxacin,DB00365,oral
+clopidogrel,DB00758,oral
+sibutramine,DB01105,oral
+zolmitriptan,DB00315,nasal oral
+mangafodipir,DB06796,injection
+cefdinir,DB00535,oral
+fomepizole,DB01213,injection
+raloxifene,DB00481,oral
+alatrofloxacin,DB09335,injection
+trovafloxacin,DB00685,oral injection
+eprosartan,DB00876,oral
+repaglinide,DB00912,oral
+talc,DB09511,intrapleural
+emedastine,DB01084,oral
+tolcapone,DB00323,oral
+naratriptan,DB00952,oral
+montelukast,DB00471,oral
+loteprednol etabonate,DB14596,ophthalmic
+tolterodine,DB01036,oral
+sildenafil,DB00203,oral intravenous
+brinzolamide,DB01194,ophthalmic
+paricalcitol,DB00910,intravenous
+capecitabine,DB01101,oral
+tirofiban,DB00775,injection intravenous
+rifapentine,DB01201,oral
+rizatriptan,DB00953,oral
+thalidomide,DB01041,oral
+citalopram,DB00215,oral
+leflunomide,DB01097,oral
+efavirenz,DB00625,oral
+valrubicin,DB00385,intravesical
+sevelamer,DB00658,oral
+telmisartan,DB00966,oral
+abacavir,DB01048,oral
+modafinil,DB00745,oral
+celecoxib,DB00482,oral
+cilostazol,DB01166,oral
+alitretinoin,DB00523,topical
+amprenavir,DB00701,oral
+orlistat,DB01083,oral
+rofecoxib,DB00533,oral
+rosiglitazone,DB00412,oral
+doxercalciferol,DB06410,injection oral
+ketotifen,DB00920,ophthalmic
+pioglitazone,DB01132,oral
+zanamivir,DB00558,inhalation
+ganirelix,DB06785,injection
+temozolomide,DB00853,oral intravenous
+zaleplon,DB00962,oral
+rapacuronium,DB04834,injection
+rabeprazole,DB01129,oral
+epirubicin,DB00445,injection
+sirolimus,DB00877,oral intravenous
+dofetilide,DB00204,oral
+entacapone,DB00494,oral
+exemestane,DB00990,oral
+oseltamivir,DB00198,oral
+levetiracetam,DB01202,oral intravenous
+aminolevulinic acid,DB00855,oral topical
+gadoversetamide,DB00538,injection
+moxifloxacin,DB00218,ophthalmic intravenous
+dexmedetomidine,DB00633,injection intravenous
+gatifloxacin,DB01044,ophthalmic
+nitric oxide,DB00435,inhalation
+bexarotene,DB00307,oral topical
+cevimeline,DB00185,oral
+oxcarbazepine,DB00776,oral
+pantoprazole,DB00213,oral intravenous
+alosetron,DB00969,oral
+zonisamide,DB00909,oral
+verteporfin,DB00460,injection
+meloxicam,DB00814,oral intravenous
+linezolid,DB00601,oral intravenous
+rivastigmine,DB00989,transdermal
+argatroban,DB00278,injection intravenous
+balsalazide,DB01014,oral
+docosanol,DB00632,topical
+cetrorelix,DB00050,injection
+arsenic trioxide,DB01169,injection
+mifepristone,DB00834,oral
+bivalirudin,DB00006,intravenous
+nateglinide,DB00731,oral
+caspofungin,DB00520,intravenous
+ziprasidone,DB00246,intramuscular oral
+formoterol,DB00983,inhalation
+galantamine,DB00674,oral
+travoprost,DB00287,ophthalmic
+bimatoprost,DB00905,ophthalmic topical
+almotriptan,DB00918,oral
+imatinib,DB00619,oral
+zoledronic acid,DB00399,intravenous
+tenofovir disoproxil,DB00300,oral
+frovatriptan,DB00998,oral
+valdecoxib,DB00580,oral
+dutasteride,DB01126,oral
+bosentan,DB00559,oral
+ertapenem,DB00303,intramuscular intravenous
+fondaparinux,DB00569,subcutaneous
+pimecrolimus,DB00337,topical
+desloratadine,DB00967,oral
+nitisinone,DB00348,oral
+fulvestrant,DB00947,intramuscular
+treprostinil,DB00374,injection subcutaneous inhalation
+voriconazole,DB00582,oral intravenous
+tegaserod,DB01079,oral
+adefovir dipivoxil,DB00718,oral
+eplerenone,DB00700,oral
+ezetimibe,DB00973,oral
+aripiprazole,DB01238,oral intramuscular
+nitazoxanide,DB00507,oral
+atomoxetine,DB00289,oral
+eletriptan,DB00216,oral
+aprepitant,DB00673,oral intravenous
+gemifloxacin,DB01155,oral
+gefitinib,DB00317,oral
+bortezomib,DB00188,intravenous subcutaneous
+alfuzosin,DB00346,oral
+atazanavir,DB01072,oral
+emtricitabine,DB00879,oral
+palonosetron,DB00377,injection oral
+miglustat,DB00419,oral
+rosuvastatin,DB01098,oral
+vardenafil,DB00862,oral
+daptomycin,DB00080,intravenous
+prussian blue,DB06783,oral
+epinastine,DB00751,ophthalmic
+memantine,DB01043,oral
+tadalafil,DB00820,oral
+abarelix,DB00106,intramuscular
+sertaconazole,DB01153,topical
+tiotropium,DB01409,inhalation
+pemetrexed,DB00642,intravenous
+cinacalcet,DB01012,oral
+telithromycin,DB00976,oral
+apomorphine,DB00714,subcutaneous sublingual
+tinidazole,DB00911,oral
+azacitidine,DB00928,intravenous subcutaneous oral
+rifaximin,DB01220,oral
+trospium,DB00209,oral
+l-glutamine,DB00130,oral
+acamprosate,DB00659,oral
+duloxetine,DB00476,oral
+erlotinib,DB00530,oral
+solifenacin,DB01591,oral
+eszopiclone,DB00402,oral
+darifenacin,DB00496,oral
+ziconotide,DB06283,intrathecal
+iloprost,DB01088,inhalation
+pregabalin,DB00230,oral
+pramlintide,DB01278,subcutaneous
+micafungin,DB01141,intravenous
+entecavir,DB00442,oral
+tigecycline,DB00560,intravenous
+tipranavir,DB00932,oral
+ramelteon,DB00980,oral
+nepafenac,DB06802,ophthalmic
+nelarabine,DB01280,intravenous
+deferasirox,DB01609,oral
+sorafenib,DB00398,oral
+lenalidomide,DB00480,oral
+conivaptan,DB00872,intravenous
+sunitinib,DB01268,oral
+ranolazine,DB00243,oral
+lubiprostone,DB01046,oral
+anidulafungin,DB00362,intravenous
+decitabine,DB01262,intravenous
+varenicline,DB01273,nasal
+rasagiline,DB01367,oral
+darunavir,DB01264,oral
+dasatinib,DB01254,oral
+posaconazole,DB01263,oral intravenous
+vorinostat,DB02546,oral
+sitagliptin,DB01261,oral
+ciclesonide,DB01410,inhalation nasal
+telbivudine,DB01265,oral
+paliperidone,DB01267,oral
+lisdexamfetamine,DB01255,oral
+aliskiren,DB09026,oral
+lapatinib,DB01259,oral
+retapamulin,DB01256,topical
+rotigotine,DB05271,transdermal
+temsirolimus,DB06287,intravenous
+ambrisentan,DB06403,oral
+maraviroc,DB04835,oral
+lanreotide,DB06791,subcutaneous
+doripenem,DB06211,injection
+raltegravir,DB06817,oral
+ixabepilone,DB04845,intravenous
+nilotinib,DB04868,oral
+sapropterin,DB00360,oral
+nebivolol,DB04861,oral
+etravirine,DB06414,oral
+desvenlafaxine,DB06700,oral
+bendamustine,DB06769,injection
+regadenoson,DB06213,intravenous
+methylnaltrexone,DB06800,subcutaneous oral
+alvimopan,DB06274,oral
+difluprednate,DB06781,ophthalmic
+clevidipine,DB04920,intravenous
+tetrabenazine,DB04844,oral
+silodosin,DB06207,oral
+lacosamide,DB06218,oral intravenous
+fesoterodine,DB06702,oral
+rufinamide,DB06201,oral
+eltrombopag,DB06210,oral
+tapentadol,DB06204,oral
+fospropofol,DB06716,injection
+plerixafor,DB06809,subcutaneous
+degarelix,DB06699,subcutaneous
+milnacipran,DB04896,oral
+febuxostat,DB04854,oral
+everolimus,DB01590,oral
+benzyl alcohol,DB06770,topical
+iloperidone,DB04946,oral
+tolvaptan,DB06212,oral
+besifloxacin,DB06771,ophthalmic
+dronedarone,DB04855,oral
+prasugrel,DB06209,oral
+saxagliptin,DB06335,oral
+pitavastatin,DB08860,oral
+asenapine,DB06216,transdermal sublingual
+vigabatrin,DB01080,oral
+bepotastine,DB04890,ophthalmic
+telavancin,DB06402,intravenous
+pralatrexate,DB06813,intravenous
+pazopanib,DB06589,oral
+romidepsin,DB06176,intravenous
+capsaicin,DB06774,topical
+dalfampridine,DB06637,oral
+carglumic acid,DB06775,oral
+polidocanol,DB06811,intravenous
+cabazitaxel,DB06772,intravenous
+alcaftadine,DB06766,ophthalmic
+ulipristal,DB08867,oral
+fingolimod,DB08868,oral
+dabigatran etexilate,DB06695,oral
+lurasidone,DB08815,oral
+ceftaroline fosamil,DB06590,intravenous
+eribulin,DB08871,intravenous
+spinosad,DB08823,topical
+vilazodone,DB06684,oral
+azilsartan medoxomil,DB08822,oral
+roflumilast,DB01656,oral
+gadobutrol,DB06703,intravenous
+gabapentin enacarbil,DB08872,oral
+abiraterone,DB05812,oral
+linagliptin,DB08882,oral
+boceprevir,DB08873,oral
+rilpivirine,DB08864,oral
+telaprevir,DB05521,oral
+fidaxomicin,DB08874,oral
+ezogabine,DB04953,oral
+indacaterol,DB05039,oral inhalation
+rivaroxaban,DB06228,oral
+ticagrelor,DB08816,oral
+vemurafenib,DB08881,oral
+icatibant,DB06196,subcutaneous
+crizotinib,DB08865,oral
+deferiprone,DB08826,oral
+clobazam,DB00349,oral
+ruxolitinib,DB08877,oral topical
+ingenol mebutate,DB05013,topical
+axitinib,DB06626,oral
+vismodegib,DB08828,oral
+ivacaftor,DB08820,oral
+tafluprost,DB08819,ophthalmic
+avanafil,DB06237,oral
+lorcaserin,DB04871,oral
+mirabegron,DB08893,oral
+carfilzomib,DB08889,intravenous
+aclidinium,DB08897,inhalation
+linaclotide,DB08890,oral
+enzalutamide,DB08899,oral
+bosutinib,DB06616,oral
+teriflunomide,DB08880,oral
+regorafenib,DB08896,oral
+perampanel,DB08883,oral
+tofacitinib,DB08895,oral
+cabozantinib,DB08875,oral
+pasireotide,DB06663,instramuscular
+ponatinib,DB08901,oral
+lomitapide,DB08827,oral
+apixaban,DB06605,oral
+bedaquiline,DB08903,oral
+alogliptin,DB06203,oral
+mipomersen,DB05528,subcutaneous
+pomalidomide,DB08910,oral
+ospemifene,DB04938,oral
+canagliflozin,DB08907,oral
+dabrafenib,DB08912,oral
+trametinib,DB08911,oral
+afatinib,DB08916,oral
+dolutegravir,DB08930,oral
+vortioxetine,DB09068,oral
+riociguat,DB08931,oral
+macitentan,DB08932,oral
+eslicarbazepine,DB14575,oral
+ibrutinib,DB09053,oral
+luliconazole,DB08933,topical
+simeprevir,DB06290,oral
+sofosbuvir,DB08934,oral
+dapagliflozin,DB06292,oral
+tasimelteon,DB09071,oral
+droxidopa,DB06262,oral
+miltefosine,DB09031,oral
+apremilast,DB05676,oral
+ceritinib,DB09063,oral
+vorapaxar,DB09030,oral
+efinaconazole,DB09040,topical
+tedizolid,DB14569,oral intravenous
+belinostat,DB05015,intravenous
+tavaborole,DB09041,topical
+idelalisib,DB09054,oral
+olodaterol,DB09080,inhalation
+empagliflozin,DB09038,oral
+oritavancin,DB04911,intravenous
+suvorexant,DB09034,oral
+eliglustat,DB09039,oral
+naloxegol,DB09049,oral
+pirfenidone,DB04951,oral
+nintedanib,DB09079,oral
+finafloxacin,DB09047,auricular
+olaparib,DB09074,oral
+peramivir,DB06614,intravenous
+edoxaban,DB09075,oral
+palbociclib,DB09073,oral
+lenvatinib,DB09078,oral
+panobinostat,DB06603,oral
+isavuconazonium,DB06636,oral intravenous
+cholic acid,DB02659,oral
+ivabradine,DB09083,oral
+deoxycholic acid,DB03619,subcutaneous
+eluxadoline,DB09272,oral
+cangrelor,DB06441,intravenous
+brexpiprazole,DB09128,oral
+sonidegib,DB09143,oral
+daclatasvir,DB09102,oral
+flibanserin,DB04908,oral
+rolapitant,DB09291,oral
+uridine triacetate,DB09144,oral
+cariprazine,DB06016,oral
+aripiprazole lauroxil,DB14185,intramuscular
+trabectedin,DB05109,intravenous
+cobimetinib,DB05239,oral
+osimertinib,DB09330,oral
+ixazomib,DB09570,oral
+alectinib,DB11363,oral
+sugammadex,DB06206,intravenous
+selexipag,DB11362,oral intravenous
+lesinurad,DB11560,oral
+brivaracetam,DB05541,oral intravenous
+venetoclax,DB11581,oral
+pimavanserin,DB05316,oral
+obeticholic acid,DB05990,oral
+lifitegrast,DB11611,ophthalmic
+crisaborole,DB05219,topical
+rucaparib,DB12332,oral
+plecanatide,DB13170,oral
+etelcalcetide,DB12865,intravenous
+deflazacort,DB11921,oral
+telotristat ethyl,DB12095,oral
+ribociclib,DB11730,oral
+safinamide,DB06654,oral
+naldemedine,DB11691,oral
+niraparib,DB11793,oral
+deutetrabenazine,DB12161,oral
+valbenazine,DB11915,oral
+midostaurin,DB06595,oral
+brigatinib,DB12267,oral
+edaravone,DB12243,intravenous
+delafloxacin,DB11943,oral injection
+betrixaban,DB12364,oral
+neratinib,DB11828,oral
+enasidenib,DB13874,oral
+benznidazole,DB11989,oral
+copanlisib,DB12483,intravenous
+secnidazole,DB12834,oral
+abemaciclib,DB12001,oral
+acalabrutinib,DB11703,oral
+latanoprostene bunod,DB11660,ophthalmic
+letermovir,DB12070,oral intravenous
+semaglutide,DB13928,subcutaneous oral
+ozenoxacin,DB12924,topical
+netarsudil,DB13931,ophthalmic
+ertugliflozin,DB11827,oral
+macimorelin,DB13074,oral
+apalutamide,DB11901,oral
+fostamatinib,DB12010,oral
+lofexidine,DB04948,oral
+avatrombopag,DB11995,oral
+baricitinib,DB11817,oral
+moxidectin,DB11431,oral
+plazomicin,DB12615,intravenous
+cannabidiol,DB09061,oral
+encorafenib,DB11718,oral
+binimetinib,DB11967,oral
+tecovirimat,DB12020,oral
+tafenoquine,DB06608,oral
+ivosidenib,DB14568,oral
+elagolix,DB11979,oral
+lusutrombopag,DB13125,oral
+migalastat,DB05018,oral
+stiripentol,DB09118,oral
+eravacycline,DB12329,intravenous
+doravirine,DB12301,oral
+duvelisib,DB11952,oral
+dacomitinib,DB11963,oral
+sarecycline,DB12035,oral
+omadacycline,DB12455,oral intravenous
+talazoparib,DB11760,oral
+baloxavir marboxil,DB13997,oral
+lorlatinib,DB12130,oral
+revefenacin,DB11855,inhalation
+rifamycin,DB11753,oral
+glasdegib,DB11978,oral
+larotrectinib,DB14723,oral
+amifampridine,DB11640,oral
+gilteritinib,DB12141,oral
+prucalopride,DB06480,oral
+triclabendazole,DB12245,oral
+brexanolone,DB11859,intravenous
+solriamfetol,DB14754,oral
+siponimod,DB12371,oral
+erdafitinib,DB12147,oral
+alpelisib,DB12015,oral
+bremelanotide,DB11653,subcutaneous
+selinexor,DB11942,oral
+ferric maltol,DB15598,oral
+darolutamide,DB12941,oral
+pexidartinib,DB12978,oral
+pitolisant,DB11642,oral
+pretomanid,DB05154,oral
+entrectinib,DB11986,oral
+fedratinib,DB12500,oral
+upadacitinib,DB15091,oral
+lefamulin,DB12825,oral intravenous
+istradefylline,DB11757,oral
+tenapanor,DB11761,oral
+trifarotene,DB12808,topical
+afamelanotide,DB04931,subcutaneous
+lasmiditan,DB11732,oral
+zanubrutinib,DB15035,oral
+cefiderocol,DB14879,intravenous
+cenobamate,DB06119,oral
+voxelotor,DB14975,oral
+lumateperone,DB06077,oral
+lemborexant,DB11951,oral
+ubrogepant,DB15328,oral
+avapritinib,DB15233,oral
+tazemetostat,DB12887,oral
+lactitol,DB12942,oral
+bempedoic acid,DB11936,oral
+amisulpride,DB06288,intravenous
+rimegepant,DB12457,oral
+osilodrostat,DB11837,oral
+ozanimod,DB12612,oral
+selumetinib,DB11689,oral
+pemigatinib,DB15102,oral
+tucatinib,DB11652,oral
+opicapone,DB11632,oral
+capmatinib,DB11791,oral
+selpercatinib,DB15685,oral
+ripretinib,DB14840,oral
+artesunate,DB09274,intravenous
+lurbinectedin,DB12674,intravenous
+triheptanoin,DB11677,oral
+remimazolam,DB12404,injection
+fostemsavir,DB11796,oral
+abametapir,DB11932,topical
+nifurtimox,DB11820,oral
+risdiplam,DB15305,oral
+oliceridine,DB14881,intravenous
+clascoterone,DB12499,topical
+pralsetinib,DB15822,oral
+remdesivir,DB14761,intravenous
+lonafarnib,DB06448,oral
+setmelanotide,DB11700,subcutaneous
+berotralstat,DB15982,oral
+tirbanibulin,DB06137,topical
+relugolix,DB11853,oral
+vibegron,DB14895,oral
+vericiguat,DB15456,oral
+voclosporin,DB11693,oral
+tepotinib,DB15133,oral
+umbralisib,DB14989,oral
+trilaciclib,DB15442,intravenous
+fosdenopterin,DB16628,intravenous
+melphalan flufenamide,DB16627,injection
+tivozanib,DB11800,oral
+ponesimod,DB12016,oral
+viloxazine,DB09185,oral
+sotorasib,DB15569,oral
+infigratinib,DB11886,oral
+ibrexafungerp,DB12471,oral
+finerenone,DB16165,oral
+fexinidazole,DB12265,oral
+belumosudil,DB16703,oral
+odevixibat,DB16261,oral
+belzutifan,DB15463,oral
+difelikefalin,DB11938,intravenous
+mobocertinib,DB16390,oral
+atogepant,DB16098,oral
+maralixibat,DB16226,oral
+avacopan,DB15011,oral
+asciminib,DB12597,oral
+maribavir,DB06234,oral
+pafolacianine,DB15413,intravenous
+tiludronate,DB01133,oral
+ardeparin,DB00407,injection
+mibefradil,DB01388,oral
+risedronate,DB00884,oral
+ferric gluconate complex,DB09517,injection
+pemirolast potassium,DB00885,ophtalmic
+triptorelin pamoate,DB06825,intramuscular
+perflutren,DB00556,intravenous
+olmesartan medoxomil,DB00275,oral
+oxybate,DB09072,oral
+icodextrin,DB00702,intraperitoneal
+pentetate zinc,DB14007,injection inhalation
+lanthanum carbonate hydrate,DB06792,oral
+gadobenate dimeglumine,DB00743,intravenous
+trypan blue,DB09158,ophthalmic
+clofarbine,DB00631,injection
+fosaprepitant dimeglumine,DB06717,intravenous
+gadoxetate,DB08884,intravenous
+omacetaxine,DB04865,subcutaneous
+gadoterate meglumine,DB09132,intravenous
+dimethyl fumarate,DB08908,oral
+dalbavancin,DB06219,intravenous
+angiotensin II,DB11842,injection
+tafamidis meglumine,DB11644,oral
+Brilliant Blue G Ophthalmic Solution,DB15594,ophthalmic

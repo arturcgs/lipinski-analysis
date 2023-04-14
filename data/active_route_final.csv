@@ -1,0 +1,857 @@
+,active_stripped,Route_Unique
+0,abacavir,oral
+1,abaloparatide,subcutaneous
+2,abemaciclib,oral
+3,abiraterone,oral
+4,acalabrutinib,oral
+5,acetaminophen,intravenous oral
+6,acetylcysteine,intravenous
+7,aclidinium,inhalation
+8,acyclovir,buccal
+9,adapalene,topical
+10,adefovir dipivoxil,oral
+11,afamelanotide,subcutaneous
+12,afatinib dimaleate,oral
+13,air polymer-type a,intrauterine
+14,albumin human,injection
+15,albuterol,inhalation
+16,alcaftadine,ophthalmic
+17,alcohol,intra-arterial
+18,alectinib,oral
+19,alendronate,oral
+20,alfuzosin,oral
+21,aliskiren hemifumarate,oral
+22,alitretinoin,topical
+23,alogliptin,oral
+24,alosetron,oral
+25,alpelisib,oral
+26,alprazolam,oral
+27,alprostadil,injection
+28,alvimopan,oral
+29,amantadine,oral
+30,ambrisentan,oral
+31,amifampridine,oral
+32,amikacin,inhalation
+33,amino acids,injection
+34,aminolevulinic acid,oral topical
+35,amiodarone,injection
+36,amisulpride,intravenous
+37,amlodipine,oral
+38,amphetamine,oral
+39,amphotericin b,injection
+40,angiotensin ii,intravenous
+41,anidulafungin,intravenous
+42,apalutamide,oral
+43,apixaban,oral
+44,apomorphine,sublingual subcutaneous
+45,apremilast,oral
+46,aprepitant,intravenous oral
+47,arformoterol,inhalation
+48,argatroban,injection intravenous
+49,aripiprazole,oral intramuscular
+50,aripiprazole lauroxil,intramuscular
+51,armodafinil,oral
+52,arsenic trioxide,injection
+53,artesunate,intravenous
+54,asciminib,oral
+55,ascorbic acid,intravenous
+56,asenapine,transdermal sublingual
+57,aspirin,oral
+58,atazanavir,oral
+59,atogepant,oral
+60,atomoxetine,oral
+61,atorvastatin,oral
+62,atropine,"intramuscular, intraosseous, subcutaneous, intramuscular endotracheal intravenous, intravenous ophthalmic"
+63,avacopan,oral
+64,avanafil,oral
+65,avapritinib,oral
+66,avatrombopag,oral
+67,axitinib,oral
+68,azacitidine,"intravenous, oral subcutaneous"
+69,azelaic acid,topical
+70,azelastine,nasal
+71,azilsartan kamedoxomil,oral
+72,azithromycin,injection ophthalmic
+73,aztreonam,inhalation
+74,baclofen,intrathecal oral
+75,baloxavir marboxil,oral
+76,balsalazide,oral
+77,baricitinib,oral
+78,barium,oral
+79,beclomethasone dipropionate,nasal
+80,bedaquiline,oral
+81,belinostat,intravenous
+82,belumosudil,oral
+83,belzutifan,oral
+84,bempedoic acid,oral
+85,bendamustine,iv (infusion)
+86,benznidazole,oral
+87,bepotastine,ophthalmic
+88,berotralstat,oral
+89,besifloxacin,ophthalmic
+90,betamethasone dipropionate,topical
+91,betamethasone valerate,topical
+92,bexarotene,oral topical
+93,bimatoprost,topical ophthalmic
+94,binimetinib,oral
+95,bivalirudin,intravenous
+96,bortezomib,"intravenous, subcutaneous"
+97,bosentan,oral
+98,bosutinib monohydrate,oral
+99,bremelanotide,subcutaneous
+100,brexanolone,intravenous
+101,brexpiprazole,oral
+102,brigatinib,oral
+103,brilliant blue g,ophthalmic
+104,brimonidine,topical ophthalmic
+105,brincidofovir,oral
+106,brinzolamide,ophthalmic
+107,brivaracetam,intravenous oral
+108,bromfenac,ophthalmic
+109,bromocriptine,oral
+110,budesonide,inhalation nasal oral rectal
+111,bupivacaine,injection infiltration implantation
+112,buprenorphine,transdermal buccal subcutaneous
+113,bupropion,oral
+114,busulfan,injection
+115,butenafine,topical
+116,cabazitaxel,intravenous
+117,cabotegravir,oral intramuscular
+118,cabozantinib s-malate,oral
+119,caffeine,intravenous
+120,calcifediol,oral
+121,calcipotriene,topical
+122,calcitriol,oral topical
+123,canagliflozin,oral
+124,candesartan cilexetil,oral
+125,cangrelor,intravenous
+126,cannabidiol,oral
+127,capecitabine,oral
+128,capmatinib,oral
+129,capsaicin,topical
+130,carbamazepine,oral
+131,carbinoxamine,oral
+132,carfilzomib,intravenous
+133,carglumic acid,oral
+134,cariprazine,oral
+135,carisoprodol,oral
+136,carvedilol,oral
+137,casimersen,intravenous
+138,caspofungin,intravenous
+139,cefazolin,injection intravenous
+140,cefepime,injection
+141,cefiderocol,intravenous
+142,cefixime,oral
+143,cefotetan,injection
+144,cefoxitin,injection
+145,ceftaroline fosamil,intravenous
+146,ceftazidime,injection
+147,ceftriaxone,injection
+148,cefuroxime,injection
+149,celecoxib,oral
+150,cenobamate,oral
+151,ceritinib,oral
+152,cetirizine,intravenous oral ophthalmic
+153,cetrorelix,injection
+154,cevimeline,oral
+155,chlorhexidine gluconate,topical dental
+156,cholic acid,oral
+157,choline fenofibrate,oral
+158,ciclesonide,nasal inhalation
+159,ciclopirox,topical
+160,cinacalcet,oral
+161,ciprofloxacin,oral ophthalmic otic
+162,citalopram,oral
+163,cladribine,oral
+164,clascoterone,topical
+165,clevidipine,intravenous
+166,clindamycin,vaginal intravenous topical
+167,clobazam,oral
+168,clobetasol propionate,topical
+169,clofarabine,intravenous
+170,clonidine,oral
+171,clozapine,oral
+172,cobicistat,oral
+173,cobimetinib,oral
+174,cocaine,nasal
+175,codeine,oral
+176,colchicine,oral
+177,colesevelam,oral
+178,conivaptan,intravenous
+179,copanlisib,intravenous
+180,crisaborole,topical
+181,crizotinib,oral
+182,crofelemer,oral
+183,cyanocobalamin,nasal
+184,cyclobenzaprine,oral
+185,cyclophosphamide,intravenous oral
+186,cyclosporine,ophthalmic
+187,cysteamine,ophthalmic
+188,cysteamine bitartrate,oral
+189,cysteine,intravenous
+190,dabigatran etexilate,oral
+191,dabrafenib,oral
+192,dacomitinib,oral
+193,dalbavancin,intravenous
+194,dalfampridine,oral
+195,dalteparin,subcutaneous
+196,dantrolene,intravenous
+197,dapagliflozin,oral
+198,dapsone,topical
+199,daptomycin,intravenous
+200,darolutamide,oral
+201,darunavir,oral
+202,dasatinib,oral
+203,dasiglucagon,subcutaneous
+204,daunorubicin,injection
+205,decitabine,intravenous
+206,deferasirox,oral
+207,deferiprone,oral
+208,defibrotide,intravenous
+209,deflazacort,oral
+210,degarelix,subcutaneous
+211,delafloxacin meglumine,intravenous oral
+212,deoxycholic acid,subcutaneous
+213,desloratadine,oral
+214,desmopressin,sublingual
+215,desonide,topical
+216,desoximetasone,topical
+217,desvenlafaxine,oral
+218,deutetrabenazine,oral
+219,dexamethasone,intraocular intravitreal oral ophthalmic
+220,dexlansoprazole,oral
+221,dexmedetomidine,injection intravenous
+222,dexmethylphenidate,oral
+223,dextrose,injection
+224,diazepam,nasal rectal
+225,dichlorphenamide,oral
+226,diclofenac,oral topical
+227,diclofenac epolamine,topical
+228,diclofenac potassium,oral
+229,difelikefalin,intravenous
+230,difluprednate,ophthalmic
+231,digoxin,oral
+232,dihydroergotamine,nasal
+233,diltiazem,oral
+234,dimethyl,oral
+235,diroximel,oral
+236,divalproex,oral
+237,docetaxel,injection
+238,docosanol,topical
+239,dofetilide,oral
+240,dolasetron,oral
+241,dolutegravir,oral
+242,donepezil,oral
+243,doravirine,oral
+244,doxazosin,oral
+245,doxepin,oral
+246,doxercalciferol,injection oral
+247,doxycycline,oral
+248,doxycycline hyclate,oral
+249,dronabinol,oral
+250,dronedarone,oral
+251,drospirenone,oral
+252,droxidopa,oral
+253,duloxetine,oral
+254,dutasteride,oral
+255,econazole,topical
+256,edaravone,intravenous
+257,edoxaban,oral
+258,efavirenz,oral
+259,efinaconazole,topical
+260,elagolix,oral
+261,eletriptan,oral
+262,eliglustat,oral
+263,eltrombopag olamine,oral
+264,eluxadoline,oral
+265,empagliflozin,oral
+266,emtricitabine,oral
+267,enalapril,oral
+268,enasidenib,oral
+269,encorafenib,oral
+270,enfuvirtide,subcutaneous
+271,enoxaparin,subcutaneous
+272,entacapone,oral
+273,entecavir,oral
+274,entrectinib,oral
+275,enzalutamide,oral
+276,ephedrine,intravenous
+277,epinastine,ophthalmic
+278,epinephrine,"intraocular, intramuscular, subcutaneous inhalation intravenous, intravenous"
+279,epirubicin,injection
+280,eplerenone,oral
+281,epoprostenol,injection
+282,eravacycline,intravenous
+283,erdafitinib,oral
+284,eribulin,intravenous
+285,erlotinib,oral
+286,ertapenem,"intramuscular, intravenous"
+287,ertugliflozin,oral
+288,escitalopram,oral
+289,esketamine,nasal
+290,eslicarbazepine,oral
+291,esmolol,injection intravenous
+292,esomeprazole,intravenous
+293,esomeprazole magnesium,oral
+294,estradiol,transdermal vaginal
+295,eszopiclone,oral
+296,etelcalcetide,intravenous
+297,eteplirsen,intravenous
+298,etonogestrel,implantation
+299,etravirine,oral
+300,everolimus,oral
+301,exemestane,oral
+302,exenatide synthetic,subcutaneous
+303,ezetimibe,oral
+304,famotidine,oral
+305,febuxostat,oral
+306,fedratinib,oral
+307,fenfluramine,oral
+308,fenofibrate,oral
+309,fenofibric acid,oral
+310,fenoldopam,injection
+311,fenoprofen,oral
+312,fentanyl,"transmucosal sublingual nasal buccal,"
+313,ferric,oral
+314,ferric carboxymaltose,intravenous
+315,ferric derisomaltose,intravenous
+316,ferric hexacyanoferrate(ii),oral
+317,ferric maltol,oral
+318,ferric oxyhydroxide,injection intravenous oral
+319,ferric pyrophosphate,intravenous
+320,ferumoxytol,intravenous
+321,fesoterodine,oral
+322,fexinidazole,oral
+323,fexofenadine,oral
+324,fidaxomicin,oral
+325,finasteride,oral
+326,finerenone,oral
+327,fingolimod,oral
+328,fingolimod lauryl,oral
+329,fish oil triglycerides,intravenous
+330,flibanserin,oral
+331,fludarabine,injection
+332,fluocinolone acetonide,intravitreal topical otic
+333,fluocinonide,topical
+334,fluorescein,intravenous
+335,fluorouracil,topical
+336,fluoxetine,oral
+337,fluticasone furoate,nasal inhalation
+338,fluticasone propionate,nasal inhalation
+339,fluvastatin,oral
+340,fondaparinux,subcutaneous
+341,formoterol,inhalation
+342,fosamprenavir,oral
+343,fosaprepitant dimeglumine,intravenous
+344,fosdenopterin,intravenous
+345,fostamatinib,oral
+346,fostemsavir tromethamine,oral
+347,frovatriptan,oral
+348,fulvestrant,intramuscular
+349,gabapentin,oral
+350,gabapentin enacarbil,oral
+351,gadobenate dimeglumine,intravenous
+352,gadobutrol,intravenous
+353,gadodiamide,injection
+354,gadoterate meglumine,intravenous
+355,gadoteridol,injection
+356,gadoxetate,intravenous
+357,galantamine,oral
+358,ganciclovir,intravenous ophthalmic
+359,ganirelix,injection
+360,gatifloxacin,ophthalmic
+361,gefitinib,oral
+362,gemcitabine,injection intravenous
+363,gilteritinib,oral
+364,givosiran,subcutaneous
+365,glasdegib,oral
+366,glatiramer,subcutaneous
+367,glucagon,"nasal intramuscular, subcutaneous injection intravenous"
+368,gluconate,intravenous
+369,glycerol phenylbutyrate,oral
+370,glycopyrrolate,"intramuscular, oral intravenous inhalation"
+371,glycopyrronium,topical
+372,golodirsen,intravenous
+373,granisetron,transdermal subcutaneous
+374,guaifenesin,oral
+375,guanfacine,oral
+376,halobetasol propionate,topical
+377,haloperidol decanoate,injection
+378,heparin,injection
+379,hexaminolevulinate,intravesical
+380,histrelin,subcutaneous
+381,hydrocodone bitartrate,oral
+382,hydrocortisone,oral
+383,hydrocortisone butyrate,topical
+384,hydrocortisone probutate,topical
+385,hydromorphone,injection
+386,hydroxocobalamin,injection
+387,hydroxyprogesterone caproate,subcutaneous intramuscular
+388,hydroxyurea,oral
+389,ibrexafungerp,oral
+390,ibrutinib,oral
+391,ibuprofen,intravenous oral
+392,ibuprofen lysine,intravenous
+393,icatibant,subcutaneous
+394,icodextrin,intraperitoneal
+395,icosapent ethyl,oral
+396,idarubicin,injection
+397,idelalisib,oral
+398,iloperidone,oral
+399,iloprost,inhalation
+400,imatinib,oral
+401,imiquimod,topical
+402,inclisiran,subcutaneous
+403,indocyanine green,"intravenous, interstitial"
+404,indomethacin,injection
+405,infigratinib,oral
+406,inotersen,subcutaneous
+407,iohexol,oral
+408,iopromide,injection
+409,ioversol,injection
+410,ipratropium,inhalation
+411,irbesartan,oral
+412,irinotecan,injection intravenous
+413,isavuconazonium,intravenous oral
+414,isotretinoin,oral
+415,istradefylline,oral
+416,itraconazole,oral
+417,ivabradine,oral
+418,ivacaftor,oral
+419,ivermectin,oral topical
+420,ivosidenib,oral
+421,ixabepilone,intravenous
+422,ixazomib,oral
+423,ketoconazole,topical
+424,ketorolac tromethamine,nasal ophthalmic
+425,ketotifen,ophthalmic
+426,labetalol,intravenous
+427,lacosamide,intravenous oral
+428,lamivudine,oral
+429,lamotrigine,oral
+430,lanreotide,subcutaneous
+431,lansoprazole,oral
+432,lanthanum carbonate,oral
+433,lapatinib ditosylate,oral
+434,larotrectinib,oral
+435,lasmiditan,oral
+436,latanoprost,ophthalmic
+437,latanoprostene bunod,ophthalmic
+438,lefamulin,intravenous oral
+439,leflunomide,oral
+440,lemborexant,oral
+441,lenalidomide,oral
+442,lenvatinib,oral
+443,letermovir,intravenous oral
+444,letrozole,oral
+445,leuprolide,injection subcutaneous intramuscular
+446,levalbuterol,inhalation
+447,levamlodipine,oral
+448,levetiracetam,intravenous oral
+449,levocetirizine,oral
+450,levodopa,inhalation
+451,levoketoconazole,oral
+452,levoleucovorin,intravenous
+453,levomilnacipran,oral
+454,levonorgestrel,oral intrauterine
+455,levothyroxine,intravenous oral
+456,lidocaine,topical ophthalmic
+457,lifitegrast,ophthalmic
+458,linaclotide,oral
+459,linagliptin,oral
+460,linezolid,intravenous oral
+461,liraglutide recombinant,subcutaneous
+462,lisdexamfetamine,oral
+463,lisinopril,oral
+464,lofexidine,oral
+465,lonafarnib,oral
+466,loperamide,oral
+467,loratadine,oral
+468,lorazepam,oral
+469,lorlatinib,oral
+470,losartan potassium,oral
+471,loteprednol etabonate,ophthalmic
+472,lovastatin,oral
+473,loxapine,inhalation
+474,lubiprostone,oral
+475,luliconazole,topical
+476,lumasiran,subcutaneous
+477,lumateperone,oral
+478,lurasidone,oral
+479,lurbinectedin,intravenous
+480,lusutrombopag,oral
+481,macimorelin,oral
+482,macitentan,oral
+483,magnesium,"intramuscular, intravenous"
+484,mannitol,inhalation
+485,maralixibat,oral
+486,maraviroc,oral
+487,maribavir,oral
+488,mechlorethamine,topical
+489,medroxyprogesterone,subcutaneous
+490,megestrol,oral
+491,meloxicam,intravenous oral
+492,melphalan,intravenous
+493,memantine,oral
+494,mercaptopurine,oral
+495,mesalamine,oral rectal
+496,mesna,oral
+497,metaxalone,oral
+498,metformin,oral
+499,methotrexate,injection oral subcutaneous
+500,methoxsalen,injection
+501,methylene blue,intravenous
+502,methylnaltrexone,oral subcutaneous
+503,methylphenidate,transdermal oral
+504,metoclopramide,nasal
+505,metoprolol,oral
+506,metronidazole,vaginal topical
+507,micafungin,intravenous
+508,miconazole,"vaginal topical, buccal"
+509,midazolam,nasal intravenous intramuscular
+510,midostaurin,oral
+511,mifepristone,oral
+512,migalastat,oral
+513,miglustat,oral
+514,milnacipran,oral
+515,miltefosine,oral
+516,minocycline,oral topical dental
+517,minoxidil,topical
+518,mirabegron,oral
+519,mirtazapine,oral
+520,mitomycin,topical pyelocalyceal
+521,mobocertinib,oral
+522,modafinil,oral
+523,mometasone furoate,inhalation
+524,monomethyl,oral
+525,montelukast,oral
+526,morphine,"intramuscular, injection intravenous oral"
+527,moxidectin,oral
+528,moxifloxacin,intravenous ophthalmic
+529,mycophenolate mofetil,injection oral
+530,mycophenolic,oral
+531,naftifine,topical
+532,naldemedine,oral
+533,naloxegol,oral
+534,naloxone,"intramuscular, nasal subcutaneous"
+535,naltrexone,intramuscular
+536,naproxen,oral
+537,naratriptan,oral
+538,nebivolol,oral
+539,nedocromil,ophthalmic
+540,nelarabine,intravenous
+541,nelfinavir,oral
+542,neostigmine methylsulfate,intravenous
+543,nepafenac,ophthalmic
+544,neratinib,oral
+545,netarsudil,ophthalmic
+546,nevirapine,oral
+547,nicardipine,injection intravenous
+548,nicotine,transdermal oral
+549,nicotine polacrilex,oral
+550,nifurtimox,oral
+551,nilotinib,oral
+552,nilutamide,oral
+553,nimodipine,oral
+554,nintedanib esylate,oral
+555,niraparib,oral
+556,nisoldipine,oral
+557,nitazoxanide,oral
+558,nitisinone,oral
+559,nitric oxide,inhalation
+560,nitrite,intravenous
+561,nitroglycerin,sublingual intra-anal
+562,nitroprusside,intravenous
+563,norepinephrine bitartrate,intravenous
+564,nusinersen,intrathecal
+565,obeticholic acid,oral
+566,octreotide,injection oral
+567,odevixibat,oral
+568,olanzapine,oral intramuscular
+569,olanzapine pamoate,intramuscular
+570,olaparib,oral
+571,oliceridine,intravenous
+572,olmesartan medoxomil,oral
+573,olodaterol,inhalation
+574,olopatadine,nasal ophthalmic
+575,omacetaxine,subcutaneous
+576,omadacycline,intravenous oral
+577,omeprazole,oral
+578,omeprazole magnesium,oral
+579,ondansetron,oral
+580,opicapone,oral
+581,oritavancin,intravenous
+582,orlistat,oral
+583,oseltamivir,oral
+584,osilodrostat,oral
+585,osimertinib,oral
+586,ospemifene,oral
+587,oxaliplatin,intravenous
+588,oxcarbazepine,oral
+589,oxybate,oral
+590,oxybutynin,transdermal
+591,oxycodone,oral
+592,oxymetazoline,topical ophthalmic
+593,oxytocin,injection
+594,ozanimod,oral
+595,ozenoxacin,topical
+596,paclitaxel,intravenous
+597,pafolacianine,intravenous
+598,palbociclib,oral
+599,paliperidone,oral
+600,paliperidone palmitate,intramuscular
+601,pamidronate,injection
+602,pantoprazole,intravenous oral
+603,paricalcitol,intravenous
+604,paroxetine,oral
+605,pasireotide diaspartate,subcutaneous
+606,pasireotide pamoate,intramuscular
+607,patiromer sorbitex,oral
+608,patisiran,intravenous
+609,pazopanib,oral
+610,pegcetacoplan,subcutaneous
+611,pemetrexed,intravenous
+612,pemigatinib,oral
+613,peramivir,intravenous
+614,perampanel,oral
+615,perflutren,intravenous
+616,pexidartinib,oral
+617,phentolamine,injection
+618,phenylephrine,intravenous ophthalmic
+619,pilocarpine,oral ophthalmic
+620,pimavanserin,oral
+621,pimecrolimus,topical
+622,pioglitazone,oral
+623,pirfenidone,oral
+624,pitavastatin,oral
+625,pitavastatin magnesium,oral
+626,pitolisant,oral
+627,plazomicin,intravenous
+628,plecanatide,oral
+629,plerixafor,subcutaneous
+630,podofilox,topical
+631,polidocanol,intravenous
+632,pomalidomide,oral
+633,ponatinib,oral
+634,ponesimod,oral
+635,posaconazole,intravenous oral
+636,potassium,injection oral
+637,pralatrexate,intravenous
+638,pralsetinib,oral
+639,pramipexole,oral
+640,pramlintide,subcutaneous
+641,prasterone,vaginal
+642,prasugrel,oral
+643,prednisolone,oral
+644,prednisone,oral
+645,pregabalin,oral
+646,pretomanid,oral
+647,progesterone,vaginal oral
+648,propafenone,oral
+649,propranolol,oral
+650,prucalopride,oral
+651,purified water,ophthalmic
+652,quetiapine,oral
+653,quinine,oral
+654,rabeprazole,oral
+655,raloxifene,oral
+656,raltegravir potassium,oral
+657,ramelteon,oral
+658,ranolazine,oral
+659,rasagiline,oral
+660,regadenoson,intravenous
+661,regorafenib,oral
+662,relugolix,oral
+663,remdesivir,intravenous
+664,remimazolam besylate,intravenous
+665,retapamulin,topical
+666,revefenacin,inhalation
+667,ribavirin,oral
+668,ribociclib,oral
+669,rifamycin,oral
+670,rifapentine,oral
+671,rifaximin,oral
+672,rilpivirine,oral
+673,riluzole,oral
+674,rimegepant,oral
+675,riociguat,oral
+676,ripretinib,oral
+677,risdiplam,oral
+678,risedronate,oral
+679,risperidone,subcutaneous intramuscular
+680,ritonavir,oral
+681,rivaroxaban,oral
+682,rivastigmine,transdermal
+683,rizatriptan,oral
+684,roflumilast,oral
+685,rolapitant,oral
+686,romidepsin,intravenous
+687,rosuvastatin,oral
+688,rotigotine,transdermal
+689,rucaparib camsylate,oral
+690,rufinamide,oral
+691,ruxolitinib,oral topical
+692,safinamide,oral
+693,salmeterol xinafoate,inhalation
+694,sapropterin,oral
+695,sarecycline,oral
+696,saxagliptin,oral
+697,secnidazole,oral
+698,secretin synthetic human,intravenous
+699,selegiline,transdermal oral
+700,selenious acid,intravenous
+701,selexipag,intravenous oral
+702,selinexor,oral
+703,selpercatinib,oral
+704,selumetinib,oral
+705,semaglutide,oral subcutaneous
+706,sertaconazole,topical
+707,sertraline,oral
+708,setmelanotide,subcutaneous
+709,sevelamer,oral
+710,sevelamer carbonate,oral
+711,sildenafil,intravenous oral
+712,silodosin,oral
+713,simvastatin,oral
+714,sinecatechins,topical
+715,siponimod fumaric acid,oral
+716,sirolimus,intravenous oral
+717,sitagliptin,oral
+718,sofosbuvir,oral
+719,solifenacin,oral
+720,solriamfetol,oral
+721,sonidegib,oral
+722,sorafenib,oral
+723,sotalol,intravenous oral
+724,sotorasib,oral
+725,spinosad,topical
+726,spironolactone,oral
+727,stiripentol,oral
+728,succinylcholine,"intramuscular, intravenous"
+729,sufentanil,sublingual
+730,sugammadex,intravenous
+731,sulfur hexafluoride lipid-type a microspheres,intravenous
+732,sumatriptan,nasal subcutaneous
+733,sunitinib,oral
+734,suvorexant,oral
+735,tacrolimus,oral topical
+736,tadalafil,oral
+737,tafamidis,oral
+738,tafamidis meglumine,oral
+739,tafenoquine,oral
+740,tafluprost,ophthalmic
+741,talazoparib,oral
+742,talc,intrapleural
+743,tamoxifen,oral
+744,tamsulosin,oral
+745,tapentadol,oral
+746,tasimelteon,oral
+747,tavaborole,topical
+748,tazarotene,topical
+749,tazemetostat,oral
+750,tecovirimat,oral
+751,tedizolid,intravenous oral
+752,teduglutide recombinant,subcutaneous
+753,telavancin,intravenous
+754,telmisartan,oral
+755,telotristat etiprate,oral
+756,temozolomide,intravenous oral
+757,temsirolimus,intravenous
+758,tenapanor,oral
+759,tenofovir alafenamide,oral
+760,tenofovir disoproxil,oral
+761,tepotinib,oral
+762,terbinafine,topical
+763,terconazole,vaginal
+764,teriflunomide,oral
+765,teriparatide,subcutaneous
+766,testosterone,transdermal
+767,testosterone enanthate,subcutaneous
+768,testosterone undecanoate,oral intramuscular
+769,tetrabenazine,oral
+770,tetracaine,ophthalmic
+771,thalidomide,oral
+772,thiosulfate,intravenous
+773,thiotepa,"intravenous, intracavitary, intravesical"
+774,tiagabine,oral
+775,ticagrelor,oral
+776,tigecycline,intravenous
+777,timolol,ophthalmic
+778,tinidazole,oral
+779,tioconazole,vaginal
+780,tiopronin,oral
+781,tiotropium,inhalation
+782,tipranavir,oral
+783,tirbanibulin,topical
+784,tirofiban,injection intravenous
+785,tivozanib,oral
+786,tizanidine,oral
+787,tobramycin,inhalation
+788,tofacitinib,oral
+789,tolcapone,oral
+790,tolterodine,oral
+791,tolvaptan,oral
+792,topiramate,oral
+793,topotecan,intravenous oral
+794,toremifene,oral
+795,torsemide,oral
+796,trabectedin,intravenous
+797,tramadol,oral
+798,trametinib dimethyl sulfoxide,oral
+799,tranexamic acid,intravenous oral
+800,travoprost,ophthalmic
+801,treprostinil,"(infusion), inhalation subcutaneous iv"
+802,treprostinil diolamine,oral
+803,tretinoin,topical
+804,triamcinolone acetonide,injection intravitreal intra-articular nasal
+805,triclabendazole,oral
+806,trifarotene,topical
+807,triheptanoin,oral
+808,trilaciclib,intravenous
+809,triptorelin pamoate,intramuscular
+810,trypan blue,ophthalmic
+811,tucatinib,oral
+812,ubrogepant,oral
+813,ulipristal,oral
+814,umeclidinium,inhalation
+815,uridine triacetate,oral
+816,ursodiol,oral
+817,valbenazine,oral
+818,valganciclovir,oral
+819,valrubicin,intravesical
+820,valsartan,oral
+821,vancomycin,"injection intravenous oral intravenous,"
+822,vandetanib,oral
+823,varenicline,nasal
+824,vasopressin,intravenous
+825,vemurafenib,oral
+826,venetoclax,oral
+827,venlafaxine,oral
+828,verapamil,oral
+829,vericiguat,oral
+830,verteporfin,injection
+831,vibegron,oral
+832,vigabatrin,oral
+833,vilazodone,oral
+834,viloxazine,oral
+835,viltolarsen,intravenous
+836,vismodegib,oral
+837,voclosporin,oral
+838,vorapaxar,oral
+839,voriconazole,intravenous oral
+840,vorinostat,oral
+841,vortioxetine,oral
+842,vosoritide,subcutaneous
+843,voxelotor,oral
+844,zaleplon,oral
+845,zanamivir,inhalation
+846,zanubrutinib,oral
+847,ziconotide,intrathecal
+848,zileuton,oral
+849,zinc,intravenous oral
+850,ziprasidone,oral intramuscular
+851,zirconium cyclosilicate,oral
+852,zoledronic acid,intravenous
+853,zolmitriptan,nasal oral
+854,zolpidem,sublingual oral
+855,zonisamide,oral
