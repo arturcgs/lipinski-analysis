@@ -1,0 +1,15 @@
+active_ingredient_moiety,nda_bla,approval_year,active,DrugBank ID,Drug Groups,SMILES,Name,Drug Type,route
+daridorexant,NDA,2022,daridorexant,DB15031,approved,COC1=CC(C(=O)N2CCC[C@@]2(C)C2=NC3=C(N2)C=CC(Cl)=C3C)=C(C=C1)N1N=CC=N1,Daridorexant,SmallMoleculeDrug,oral
+abrocitinib,NDA,2022,abrocitinib,DB14973,approved,CCCS(=O)(=O)N[C@H]1C[C@H](C1)N(C)C1=C2C=CNC2=NC=N1,Abrocitinib,SmallMoleculeDrug,oral
+mitapivat,NDA,2022,mitapivat,DB16236,approved,O=C(N1CCN(CC2CC2)CC1)C1=CC=C(NS(=O)(=O)C2=CC=CC3=C2N=CC=C3)C=C1,Mitapivat,SmallMoleculeDrug,oral
+pacritinib,NDA,2022,pacritinib,DB11697,approved,C(CN1CCCC1)OC1=CC=C2NC3=NC=CC(=N3)C3=CC(COC\C=C\COCC1=C2)=CC=C3,Pacritinib,SmallMoleculeDrug,oral
+ganaxolone,NDA,2022,ganaxolone,DB05087,approved,[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@](C)(O)CC[C@]12C,Ganaxolone,SmallMoleculeDrug,oral
+oteseconazole,NDA,2022,oteseconazole,DB13055,approved,O[C@@](CN1C=NN=N1)(C1=CC=C(F)C=C1F)C(F)(F)C1=CC=C(C=N1)C1=CC=C(OCC(F)(F)F)C=C1,Oteseconazole,SmallMoleculeDrug,oral
+mavacamten,NDA,2022,mavacamten,DB14921,approved,CC(C)N1C(=O)NC(N[C@@H](C)C2=CC=CC=C2)=CC1=O,Mavacamten,SmallMoleculeDrug,oral
+tapinarof,NDA,2022,tapinarof,DB06083,approved,CC(C)C1=C(O)C=C(\C=C\C2=CC=CC=C2)C=C1O,Tapinarof,SmallMoleculeDrug,topical
+deucravacitinib,NDA,2022,deucravacitinib,DB16650,approved,[2H]C([2H])([2H])NC(=O)C1=C(NC2=CC=CC(C3=NN(C)C=N3)=C2OC)C=C(NC(=O)C2CC2)N=N1,Deucravacitinib,SmallMoleculeDrug,oral
+omidenepag,NDA,2022,omidenepag,DB15071,approved,CC(C)OC(=O)CNC1=CC=CC(CN(CC2=CC=C(C=C2)N2C=CC=N2)S(=O)(=O)C2=CC=CN=C2)=N1,Omidenepag,SmallMoleculeDrug,ophthalmic
+futibatinib,NDA,2022,futibatinib,DB15149,approved,COC1=CC(=CC(OC)=C1)C#CC1=NN([C@H]2CCN(C2)C(=O)C=C)C2=C1C(N)=NC=N2,Futibatinib,SmallMoleculeDrug,oral
+olutasidenib,NDA,2022,olutasidenib,DB16267,approved,C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2,Olutasidenib,SmallMoleculeDrug,oral
+adagrasib,NDA,2022,adagrasib,DB15568,approved,[H][C@@]1(COC2=NC3=C(CCN(C3)C3=CC=CC4=C3C(Cl)=CC=C4)C(=N2)N2CCN(C(=O)C(F)=C)[C@@]([H])(CC#N)C2)CCCN1C,Adagrasib,SmallMoleculeDrug,oral
+lenacapavir,NDA,2022,lenacapavir,DB15673,approved,[H][C@]12C[C@@]1([H])C(F)(F)C1=C2C(=NN1CC(=O)N[C@@H](CC1=CC(F)=CC(F)=C1)C1=NC(=CC=C1C1=CC=C(Cl)C2=C1N(CC(F)(F)F)N=C2NS(C)(=O)=O)C#CC(C)(C)S(C)(=O)=O)C(F)(F)F,Lenacapavir,SmallMoleculeDrug,subcutaneous
