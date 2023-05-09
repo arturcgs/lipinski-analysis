@@ -1,0 +1,263 @@
+SMILES,n,chemical_name
+c1ccccc1,478,benzene
+c1ccncc1,78,pyridine
+C1CCNCC1,52,piperidine
+C1CCNC1,44,pyrrolidine
+C1CNCCN1,42,piperazine
+c1cncnc1,37,pyrimidine
+C1CCOCC1,35,oxane
+C1CC1,30,cyclopropane
+c1ccc2[nH]ccc2c1,24,1h-indole
+C1CCCCC1,23,cyclohexane
+c1c[nH]cn1,22,1h-imidazole
+c1ccc2ncccc2c1,19,quinoline
+C1CCOC1,18,oxolane
+c1cn[nH]c1,18,1h-pyrazole
+c1cscn1,17,"1,3-thiazole"
+c1nc[nH]n1,16,"1h-1,2,4-triazole"
+c1ccc2[nH]cnc2c1,16,1h-benzimidazole
+C1CCCC1,15,cyclopentane
+c1ccsc1,14,thiophene
+C1COCCN1,13,morpholine
+c1ccc2ccccc2c1,12,naphthalene
+c1ncc2nc[nH]c2n1,11,chemical name not found
+c1ccc2ncncc2c1,10,quinazoline
+c1nn[nH]n1,7,2h-tetrazole
+c1ccc2c(c1)CCNC2,6,"1,2,3,4-tetrahydroisoquinoline"
+c1ccc2[nH]ncc2c1,6,1h-indazole
+c1ccc2c(c1)CCN2,6,"2,3-dihydro-1h-indole"
+C1=CCCCC1,5,cyclohexene
+C1CCC1,5,cyclobutatetraene
+C1CNC1,5,azetidine
+[CH]1N=CC=CN1,5,chemical name not found
+c1cnccn1,5,pyrazine
+C1=CN2CC[C@H]2SC1,4,chemical name not found
+C1CSCN1,4,"1,3-thiazolidine"
+[CH]1C=Cc2ccccc2N1,4,chemical name not found
+c1ccc2c(c1)CCCN2,4,"1,2,3,4-tetrahydroquinoline"
+C1COCN1,4,504-76-7
+c1ccc2c(c1)CNC2,4,"2,3-dihydro-1h-isoindole"
+c1cnoc1,4,"1,2-oxazole"
+c1ncc2cc[nH]c2n1,4,"7h-pyrrolo[2,3-d]pyrimidine"
+C1=CC[C@@H]2C[C@@H]3Cc4ccccc4CC3=CC2C1,4,chemical name not found
+c1ccc2c(c1)CCC2,4,"2,3-dihydro-1h-indene"
+c1ccnnc1,3,pyridazine
+C1=C/C=C/CC[C@@H]2CCCC(CCN3CCCC[C@H]3COCCCC/C=C/CCCCCC/C=C/1)O2,3,chemical name not found
+C1CC[C@@H]2CC[C@H]3[C@@H]4CCCC4CC[C@@H]3C2C1,3,chemical name not found
+C1=CCC=[O+][CH-]1,3,chemical name not found
+c1ncc2cn[nH]c2n1,3,"1h-pyrazolo[3,4-d]pyrimidine"
+C1CN2CCC1CC2,3,1-azabicyclo[2.2.2]octane
+c1ccc2oncc2c1,3,"1,2-benzoxazole"
+c1cnc2[nH]ccc2c1,3,"1h-pyrrolo[2,3-b]pyridine"
+c1ncncn1,3,"1,3,5-triazine"
+C1CCNCCN2CCC[C@H]2CNCCNCCN2CCC[C@H]2CNCC1,3,chemical name not found
+c1c[nH]nn1,3,chemical name not found
+c1ccc2c(c1)CCO2,3,"2,3-dihydro-1-benzofuran"
+C1CC[C@H]2CC[C@H]3[C@@H]4CCCC4CC[C@@H]3C2C1,3,chemical name not found
+c1ncon1,3,"1,2,4-oxadiazole"
+c1ccc2c(c1)CCCO2,3,chroman
+c1ccc2occc2c1,3,1-benzofuran
+c1ccc2sccc2c1,3,1-benzothiophene
+C1NC[C@@H]2C[C@H]12,3,chemical name not found
+c1ccc2c(c1)CCNCC2,3,"2,3,4,5-tetrahydro-1h-3-benzazepine"
+c1cnc2ncccc2c1,3,"1,8-naphthyridine"
+C1CCC2CCC[C@@]3(CC1)CCC[C@@H]23,2,chemical name not found
+C1CNCCNCCNCCNCCNCCSSC1,2,"1,2-dithia-5,8,11,14,17-pentazacycloicosane"
+C1C2CC3CC1CC(C2)C3,2,adamantane
+c1ccc2c(c1)OCO2,2,"1,3-benzodioxole"
+c1cnn2ccnc2c1,2,"imidazo[2,1-f]pyridazine"
+C1CNCN1,2,imidazolidine
+C1CC[N+]C1,2,pyrrolidin-1-ium
+C1=C\CNc2ccc3c4c(ccc3c2)OC(C4)O/C=C/CCCCCCCC/C=C/1,2,chemical name not found
+C1CC[C@@H]2CCCC2C1,2,chemical name not found
+C1CNCCNC1,2,"1,4-diazepane"
+c1ccc2cnccc2c1,2,isoquinoline
+C1=C[C@@H]2CCC[C@H]2[C@@H]2C=C3CCCCCCCOCC[C@H]3[C@H]12,2,chemical name not found
+c1cnc2c(c1)CCC2,2,"6,7-dihydro-5h-cyclopenta[b]pyridine"
+c1cnc2c(c1)CCN2,2,"2,3-dihydro-1h-pyrrolo[2,3-b]pyridine"
+C1=CC=[N+]C=C1,2,chemical name not found
+c1cc2cncnn2c1,2,"pyrrolo[2,1-f][1,2,4]triazine"
+c1ccoc1,2,furan
+C1C[C@H]2CC[C@@H](C1)N2,2,"(1r,5s)-8-azabicyclo[3.2.1]octane"
+c1cc2cc(c1)[C@@H]1CN[C@H](CNCc3ccccc3-2)Cc2ccc(cc2)Oc2cc3cc(c2)[C@H](CN1)NCCNCCCc1ccc(cc1)O3,2,chemical name not found
+C1=NNCC1,2,"4,5-dihydro-1h-pyrazole"
+C1CNCCNCCCNCCNC1,2,"1,4,8,11-tetrazacyclotetradecane"
+c1cnc2ccnn2c1,2,"pyrazolo[1,5-a]pyrimidine"
+C1=CC2C(=CC1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21,2,chemical name not found
+c1ccc2ocnc2c1,2,"1,3-benzoxazole"
+C1=CN2CC[C@H]2C1,2,chemical name not found
+c1cc2c(s1)CCNC2,2,"4,5,6,7-tetrahydrothieno[3,2-c]pyridine"
+c1ccc2c(c1)CCc1ccccc1N2,2,"6,11-dihydro-5h-benzo[b][1]benzazepine"
+c1ccc2c(c1)Cc1cc3c(cc1C2)CCCC3,2,chemical name not found
+C1=C2CC[C@@H]3C(=C2CCC1)CCC1CCC[C@H]13,2,chemical name not found
+C1CSCO1,2,"1,3-oxathiolane"
+c1ccc2c(c1)CCCC2,2,"1,2,3,4-tetrahydronaphthalene"
+c1ccc2sncc2c1,2,"1,2-benzothiazole"
+c1cnc2n[nH]cc2c1,2,chemical name not found
+c1cnc2ncncc2c1,2,"pyrido[2,3-d]pyrimidine"
+C1=COCCC1,2,"3,4-dihydro-2h-pyran"
+c1ccc2c(c1)CCc1cccnc1C2,2,chemical name not found
+C1=COCO1,2,"1,3-dioxole"
+c1ccc2c(c1)C[C@H]1CN3[C@H]4COCCCS[C@H](c5ccc6c(c54)OCO6)[C@H]3[C@@H]2N1,2,chemical name not found
+B1OCc2ccccc21,2,chemical name not found
+C1CO1,2,oxirane
+C1=NCCN1,2,"4,5-dihydro-1h-imidazole"
+c1cc2c3c(cnc2[nH]1)CNCN3,1,chemical name not found
+c1ccc2c(c1)CCN1CCCC[C@@H]21,1,chemical name not found
+C1=NCCO1,1,"4,5-dihydro-1,3-oxazole"
+c1ncn2c1CCC2,1,chemical name not found
+c1cnc2c(c1)CCCCC2,1,"6,7,8,9-tetrahydro-5h-cyclohepta[b]pyridine"
+c1ccn2ncnc2c1,1,"[1,2,4]triazolo[1,5-a]pyridine"
+c1cnc2[nH]cnc2c1,1,chemical name not found
+C1=C[C@@H]2Oc3cccc4c3[C@@]23CCN[C@H](C4)C3C1,1,chemical name not found
+C1=Nc2ccccc2CN1,1,chemical name not found
+c1cn2c(n1)OCCC2,1,chemical name not found
+c1ccc2c(c1)CCN1CCCC[C@H]21,1,chemical name not found
+c1cc2c3c(c1)[C@@H]1CNCC[C@@H]1N3CCN2,1,chemical name not found
+c1cc2n(n1)CCCN2,1,chemical name not found
+c1cn2c(cnc3[nH]ccc32)n1,1,chemical name not found
+C1CCNCCCCNCCNCCNCCNCCNCC1,1,chemical name not found
+c1ccc2c(c1)c1c3c(c4c5ccccc5n5c4c1n2C1CCC[C@H]5O1)CNC3,1,chemical name not found
+c1ccc2nccnc2c1,1,quinoxaline
+C1=Nc2ccccc2C2=NCCN12,1,chemical name not found
+c1ccc2c(c1)CSc1ccccc1C2,1,"6,11-dihydrobenzo[c][1]benzothiepine"
+C1=Nc2ccccc2Sc2ccccc21,1,"benzo[b][1,5]benzothiazepine"
+C1=C[C@@H]2[C@@H]3CNC[C@@H]3[C@H]1[C@@H]1C[C@H]21,1,chemical name not found
+c1cn2cncc2cn1,1,"imidazo[1,5-a]pyrazine"
+c1cnn2ccnc2n1,1,chemical name not found
+c1cnc2c(c1)OCCN2,1,"3,4-dihydro-2h-pyrido[3,2-b][1,4]oxazine"
+C1CC2COC(C1)O2,1,"6,8-dioxabicyclo[3.2.1]octane"
+C1=C[C@H]2CO[C@@H]3CCO[C@H](C/C=C/CC/C=C/C=C4\CO[C@H](C1)C42)C3,1,chemical name not found
+C1CC[N+]CC1,1,piperidin-1-ium
+c1ccn2nccc2c1,1,"pyrazolo[1,5-a]pyridine"
+C1NCC2CC1N2,1,"3,7-diazabicyclo[3.1.1]heptane"
+c1ccc2c(c1)ncc1nc[nH]c12,1,chemical name not found
+c1ccc2c3c([nH]c2c1)CCNC3,1,"2,3,4,5-tetrahydro-1h-pyrido[4,3-b]indole"
+C1=NCNN1,1,"2,3-dihydro-1h-1,2,4-triazole"
+[CH]1N=CC2=CN=CNN12,1,chemical name not found
+C1=CC2=CN=CN[C]2N1,1,chemical name not found
+C1C[C@H]2C[C@H]3CCN2[C@H](C1)C3,1,chemical name not found
+C1=N[C]2NCCNC2=CN1,1,chemical name not found
+c1nc2c(s1)CCCC2,1,"4,5,6,7-tetrahydro-1,3-benzothiazole"
+C1=NCON1,1,"2,5-dihydro-1,2,4-oxadiazole"
+c1ccc2c(c1)CCCS2,1,thiochroman
+c1ncc2nn[nH]c2n1,1,chemical name not found
+c1[nH]nc2c1CCNC2,1,chemical name not found
+C1CC[C@@H]2CNCC[C@@H]2C1,1,"(4as,8as)-1,2,3,4,4a,5,6,7,8,8a-decahydroisoquinoline"
+c1n[nH]c[nH+]1,1,"1h-1,2,4-triazol-4-ium"
+c1cc2cnc[nH]c-2n1,1,chemical name not found
+c1ccc2c(c1)CNCc1n[nH]cc1-c1cncc(c1)OC2,1,chemical name not found
+c1ccc2c(c1)CN1CCNC1=N2,1,chemical name not found
+[CH]1C=CC=CN1,1,chemical name not found
+c1cc2cc[nH]c2cn1,1,"1h-pyrrolo[2,3-c]pyridine"
+C1=COC2CCCCC2=C1,1,chemical name not found
+C1=CN=C2N=CNC=C2[N]1,1,chemical name not found
+c1ncc2c(n1)CNCC2,1,"5,6,7,8-tetrahydropyrido[3,4-d]pyrimidine"
+C1=C/COCc2cccc(c2)-c2ccnc(n2)Nc2cccc(c2)COC/1,1,chemical name not found
+C1=CCC=CC1,1,"cyclohexa-1,4-diene"
+C1CNCCNCCNCCNCCNCCNCCNCCNCCNCCNCCN1,1,chemical name not found
+c1cnc2ccncc2c1,1,"1,6-naphthyridine"
+C1C[C@H]2CCO[C@@H]3OC4CC[C@@H](C1)[C@@]23OO4,1,chemical name not found
+c1ccc2c3c([nH]c2c1)CNCC3,1,"2,3,4,9-tetrahydro-1h-pyrido[3,4-b]indole"
+C1=NCc2nccn2-c2ccccc21,1,chemical name not found
+C1CSCCN1,1,thiomorpholine
+C1=C2CC[C@@H]3[C@H](CCC4CCC[C@H]43)C2CCC1,1,chemical name not found
+C1CNCCNCCN[C@@H]2CNCCNCCNCCNCCN[C@H](CNCCNCCNCCSSC2)CSSC1,1,chemical name not found
+C1CNCCNCCNCCNCCNCCNCCSSC1,1,chemical name not found
+c1ncc2ccsc2n1,1,chemical name not found
+c1ncc2cc3n(c2n1)CCNC3,1,chemical name not found
+c1cc2cc(c1)Oc1cccc(c1)[C@H]1CN[C@H]3CN[C@H]4CN[C@H](CNCc5ccccc5-c5cccc4c5)Cc4ccc(cc4)Oc4cc(cc3c4)Oc3ccc(cc3)C[C@H](CN1)NCC2,1,chemical name not found
+C1=C2[C@H](CC[C@H]3C4CCC[C@]23COC4)C2CCCCC2C1,1,chemical name not found
+C1=CNc2ccncc2C1,1,chemical name not found
+c1ccc2c(c1)NCCNS2,1,"2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine"
+c1ccc2c(c1)CCCCS2,1,"2,3,4,5-tetrahydro-1-benzothiepine"
+C1C[N+]2CCN1CC2,1,chemical name not found
+C1=[N+]c2ccccc2C1,1,chemical name not found
+C1CNCCNCCNCCNCCN2CCCC2CNCCSSC1,1,chemical name not found
+C1=C[C@]23CCCN2CCc2cc4c(cc2[C@@H]3C1)OCO4,1,chemical name not found
+C1CNCCNCCNCCN1,1,"1,4,7,10-tetrazacyclododecane"
+C1=CC2C(=CC1)CC[C@@H]1[C@@H]2CCC2C3N=CO[C@@H]3C[C@H]21,1,chemical name not found
+c1cc2ncncc2cn1,1,"pyrido[4,3-d]pyrimidine"
+c1cc2c3c(c[nH]c3c1)CCNC2,1,chemical name not found
+c1ccc2c3c([nH]c2c1)CN1CCNC[C@H]1C3,1,chemical name not found
+C1CCCCC[C@H]2NCOC2COCCCC1,1,chemical name not found
+c1ccc2c(c1)C[C@H]1NCCc3cccc-2c31,1,chemical name not found
+c1ccc2c(c1)COC2,1,"1,3-dihydro-2-benzofuran"
+C1=C\CNc2cc3ccc4c(c3c3nc5ccccn5c23)CC(O/C=C/CCCCCCCC/C=C/1)O4,1,chemical name not found
+C1C[C@H]2CC[C@@H](C1)[N+]2,1,chemical name not found
+c1cnc2c(n1)CNC2,1,"6,7-dihydro-5h-pyrrolo[3,4-b]pyrazine"
+C1CNCCNCCNCCNCCNCCNCCN[C@@H]2CNCCNCCNCCNCCNCCNCCN[C@@H]3CN[C@H](CNCCNCCNCCN[C@H](CNCCNCCNCCNCCNCCSSC3)CSSC2)CSSC1,1,chemical name not found
+C1C[C@H]2CCC[C@H]2C1,1,chemical name not found
+c1nc2cnc[nH]c-2n1,1,chemical name not found
+c1cc2c(s1)SNCC2,1,"3,4-dihydro-2h-thieno[3,2-e]thiazine"
+C1=CCOCC1,1,"3,6-dihydro-2h-pyran"
+c1cc2c(c3c1CCC3)CCO2,1,chemical name not found
+c1ccc2c(c1)NCCc1[nH]cnc1-2,1,"3,4,5,6-tetrahydroimidazo[5,4-d][1]benzazepine"
+c1cc[nH]c1,1,1h-pyrrole
+C1CO[C@@H]2CCC[C@H]2C1,1,chemical name not found
+c1cnc2cc3c(cc2n1)C1CNCC3C1,1,249296-44-4
+c1nc2cnnc-2c[nH]1,1,chemical name not found
+C1C[C@@H]2[N+][C@H](C1)[C@H]1O[C@@H]21,1,chemical name not found
+C1=NCC2c3ccccc3Cc3ccccc3N12,1,chemical name not found
+c1nnc2n1CCNC2,1,"5,6,7,8-tetrahydro-[1,2,4]triazolo[4,3-a]pyrazine"
+C1CNCCNCCNCCNCCNCCNCCNCCNCCNCCOC1,1,chemical name not found
+c1ncn2cnnnc12,1,"imidazo[5,1-d][1,2,3,5]tetrazine"
+C1CN[C@@H]2CNC[C@@H]2C1,1,"(4as,7as)-2,3,4,4a,5,6,7,7a-octahydro-1h-pyrrolo[3,4-b]pyridine"
+c1ccc2c(c1)CCc1sccc1C2,1,chemical name not found
+C1=CCOC1,1,"2,5-dihydrofuran"
+C1=CCC2C(=C1)c1cc3ccc(cc4nc(cc5ccc(cc2n1)[nH]5)C=C4)[nH]3,1,chemical name not found
+C1=Cc2ccccc2SN1,1,"2h-1,2-benzothiazine"
+C1COC1,1,oxetane
+C1=CCCC1,1,cyclopentene
+C1=C[C@@]23CCNCc4cccc(c42)O[C@H]3CC1,1,chemical name not found
+c1ccc2c3c([nH]c2c1)CCCC3,1,"2,3,4,9-tetrahydro-1h-carbazole"
+C1=CC2[C@H]3CCC4CCC[C@H]4[C@@H]3CC[C@H]2NC1,1,chemical name not found
+C1=C/CCCC[C@@H]2CCCC(CCN3CCCC[C@H]3COCCCCCC/1)O2,1,chemical name not found
+c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21,1,chemical name not found
+c1ccc2c(c1)C[C@@H]1CCC[C@@H]1C2,1,"(3ar,9as)-2,3,3a,4,9,9a-hexahydro-1h-cyclopenta[b]naphthalene"
+C1=C2CC[C@H]3[C@@H]4CCCC4C[C@H]4O[C@@]34C2CCC1,1,chemical name not found
+c1ccc2c(c1)COCN2,1,"2,4-dihydro-1h-3,1-benzoxazine"
+c1cc2c3c(c1)CNC[C@H]3CCC2,1,chemical name not found
+C1C[C@H]2CCO[C@H]2O1,1,chemical name not found
+C1=CC2C(=CC1)CC[C@@H]1[C@@H]2CCC2C3OCO[C@@H]3C[C@H]21,1,chemical name not found
+C1C[C@@H]2OC[C@H]1O[C@@H]1CC[C@@H](CO1)O[C@@H]1CC[C@@H](CO1)O[C@@H]1CC[C@@H](CO1)O[C@@H]1CC[C@@H](CO1)O[C@@H]1CC[C@@H](CO1)O[C@@H]1CC[C@@H](CO1)O[C@@H]1CC[C@@H](CO1)O2,1,chemical name not found
+C1C[C@@H]2CNC[C@@H]2C1,1,"(3as,6ar)-1,2,3,3a,4,5,6,6a-octahydrocyclopenta[c]pyrrole"
+C1CC[C@@H]2NCC[C@@H]2C1,1,"(3as,7as)-2,3,3a,4,5,6,7,7a-octahydro-1h-indole"
+c1ccc2c(c1)NCCCN2,1,"2,3,4,5-tetrahydro-1h-1,5-benzodiazepine"
+C1=C[C@H]2C[C@]3(C=CCC3C1)CC[C@H]1C[C@@H]21,1,chemical name not found
+C1C[N+]2CCC1CC2,1,chemical name not found
+C1CN[C@@H]2CNCCNCCN[C@@H]3CN[C@H](CNCCN4CCC[C@H]4CNCCN[C@H](CNCCNCCNCCSSC3)CSSC2)CSSC1,1,chemical name not found
+C1C[C@H]2CNCCNCCNCCNCCNCCN2C1,1,chemical name not found
+c1ccc2c(c1)Cc1ccccc1-2,1,9h-fluorene
+C1CSCS1,1,"1,3-dithiolane"
+C1=C\[C@H]2CC2NC[C@@H]2CCC[C@H]2CNCCCC/1,1,chemical name not found
+C1CC[C@H]2C[C@H]3COC[C@H]3C[C@@H]2C1,1,chemical name not found
+c1ccc2c(c1)NCCO2,1,"3,4-dihydro-2h-1,4-benzoxazine"
+c1ccc2c(c1)OCCO2,1,"2,3-dihydro-1,4-benzodioxine"
+c1cc2c3c(c1)O[C@H]1CCCC4[C@@H](C2)NCC[C@@]341,1,chemical name not found
+C1CO[C@H]2CNC[C@@H]2N1,1,chemical name not found
+c1nc2c(s1)CNCC2,1,"4,5,6,7-tetrahydro-[1,3]thiazolo[5,4-c]pyridine"
+c1ccc2c(c1)CC2,1,"bicyclo[4.2.0]octa-1,3,5-triene"
+c1ccc2c(c1)Cc1[nH]c3ccccc3c1C2,1,chemical name not found
+C1=C\CCOC/C=C/C=C/CC/C=C/CC/C=C/1,1,chemical name not found
+C1=CC2CC[C@@H]3C4CCCCC4=CC[C@H]3[C@@H]2C1,1,chemical name not found
+c1nnco1,1,"1,3,4-oxadiazole"
+C1C[N+]2CC[N+]3CC[N+]4CC[N+]1[Gd-]243,1,chemical name not found
+C1CCCCCNCC[C@@H]2OC2CCCCC1,1,chemical name not found
+c1cc2c3c(c1)O[C@H]1CCCC4[C@@H](C2)[N+]CC[C@@]341,1,chemical name not found
+C1=CC2C(=CC1)CC[C@@H]1C2CCC2CCC[C@H]21,1,chemical name not found
+C1=CNC=CC1,1,"1,4-dihydropyridine"
+c1ccc2c(c1)CCN1CCCCC21,1,chemical name not found
+C1CNCNC1,1,"1,3-diazinane"
+c1ccc2c(c1)CCCCN2,1,"2,3,4,5-tetrahydro-1h-1-benzazepine"
+C1CCCNCC1,1,azepane
+C1C[C@@H]2C[C@@H]2N1,1,chemical name not found
+c1ccc2c(c1)Oc1ccccc1C1CNCC21,1,chemical name not found
+c1cnc2ncncc2n1,1,pteridine
+C1=C/[C@@H]2CCNCCN[C@@H](CNCCNCCO2)CSSCC/1,1,chemical name not found
+C1=C2CCC3CC[C@H]4OCC4[C@H]3CC(CC1)C2,1,chemical name not found
+c1ccc2c(c1)CCn1ccnc1C2,1,"6,11-dihydro-5h-imidazo[1,2-c][3]benzazepine"
+C1C[C@@H]2C[C@H]1[C@H]1CNC[C@@H]21,1,chemical name not found
+c1ncsn1,1,"1,2,4-thiadiazole"
+C1C[C@H]2C[C@@H]3OCC[C@H]3CCC[C@H]3CC[C@@H]4O[C@H]5[C@H]6O[C@]7(CC[C@H]8CC[C@H](CC[C@@H](C1)O2)O8)C[C@@H]6O[C@H]5[C@@H](O7)[C@H]4O3,1,chemical name not found
+c1[nH]nc2c1[C@H]1C[C@H]1C2,1,chemical name not found
