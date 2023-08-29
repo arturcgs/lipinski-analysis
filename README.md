@@ -1,5 +1,7 @@
 # Absorption Matters: A Closer Look at Popular Oral Bioavailability Rules for Drug Approvals
 
-This repository contains the notebooks and data for the article found [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202300115).
+Click [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202300115) to read the full article.
 
+## Abstract
 
+This study examines how two popular drug-likeness concepts used in early development, Lipinski Rule of Five (Ro5) and Veber's Rules, possibly affected drug profiles of FDA approved drugs since 1997. Our findings suggest that when all criteria are applied, relevant compounds may be excluded, addressing the harmfulness of blindly employing these rules. Of all oral drugs in the period used for this analysis, around 66% conform to the RO5 and 85% to Veber’s Rules. Molecular Weight and calculated LogP showed low consistent values over time, apart from being the two least followed rules, challenging their relevance. On the other hand, hydrogen bond related rules and the number of rotatable bonds are amongst the most followed criteria and show exceptional consistency over time. Furthermore, our analysis indicates that topological polar surface area and total count of hydrogen bonds cannot be used as interchangeable parameters, contrary to the original proposal. This research enhances the comprehension of drug profiles that were FDA approved in the post-Lipinski period. Medicinal chemists could utilize these heuristics as a limited guide to direct their exploration of the oral bioavailability chemical space, but they must also steer the wheel to break these rules and explore different regions when necessary.
